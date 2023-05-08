@@ -11,5 +11,4 @@
 - 💬 Ask me about anything react native and spring boot.
 - ⚡ Fun fact: I'm trying to get into technical writing.
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=etherofgodd&show_icons=true) 
-
-![Profile views](https://gpvc.arturio.dev/etherofgodd) 
+- ![Profile views](https://gpvc.arturio.dev/etherofgodd) 
