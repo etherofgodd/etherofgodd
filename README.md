@@ -6,7 +6,7 @@
 
 ### Here are a few tips about me:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on EVENTSPRO
 - 👯 I’m looking to collaborate on React Native and Java projects
 - 💬 Ask me about anything react native and spring boot.
 - ⚡ Fun fact: I'm trying to get into technical writing 
