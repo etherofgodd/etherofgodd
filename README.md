@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on EVENTSPRO
 - 👯 I’m looking to collaborate on React Native and Java projects
-- 💬 Ask me about anything react native and spring boot.
+- 💬 Ask me about anything react native, spring boot and nestjs.
+- I am not always active here because my current employer uses gitlab.
 
 - ⚡ Fun fact: I'm trying to get into technical writing.
 
