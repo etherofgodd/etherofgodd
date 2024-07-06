@@ -12,7 +12,3 @@
 - I am not always active here because my current employer uses gitlab.
 
 - ⚡ Fun fact: I'm trying to get into technical writing.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=etherofgodd&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/etherofgodd) 
