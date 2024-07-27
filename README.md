@@ -7,7 +7,7 @@
 ### Here are a few tips about me:
 
 - 🔭 I’m currently working on EVENTSPRO
-- 👯 I’m looking to collaborate on React Native and Java projects. Basicaaly, typescript and spring boot.
+- 👯 I’m looking to collaborate on React Native and Java projects.
 - 💬 Ask me about anything react native, spring boot and nestjs.
 - I am not always active here because my current employer uses gitlab.
 
