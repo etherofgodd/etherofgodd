@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew Samuel (aka etherofgodd 😉) 👋
 
-🚀 **Software Engineer | Full-Stack Developer | Open Source Enthusiast**
+🚀 **Software Engineer | Open Source Enthusiast**
 
 ---
 
