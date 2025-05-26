@@ -26,7 +26,7 @@ I am a passionate and highly skilled software engineer with **over 5 years of ex
 
 #### 🔭 What I'm Currently Working On
 
-- **EVENTSPRO** – A robust event management platform
+- **Foonmi**
 - Building scalable backend services with **Spring Boot** and **NestJS** (MS combination)
 - Exploring **AI integration** in mobile applications
 
@@ -37,7 +37,7 @@ I am a passionate and highly skilled software engineer with **over 5 years of ex
 💡 I’m open to collaborating on **React Native, Springboot, Nodejs projects**.
 📚 I enjoy mentoring developers and sharing knowledge through **technical writing**.
 
-Feel free to reach out if you're working on something exciting!
+Feel free to reach out if you're working on something exciting! via: information@foonmi.com
 
 ---
 
