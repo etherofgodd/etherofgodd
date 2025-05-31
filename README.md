@@ -1,4 +1,4 @@
-### Hi there, I'm Andrew Samuel (aka etherofgodd 😉) 👋
+### Hi there, I'm Andrew Samuel (aka etherofgodd 😉) 👋🏿
 
 🚀 **Software Engineer | Open Source Enthusiast**
 
