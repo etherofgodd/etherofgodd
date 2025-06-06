@@ -35,7 +35,6 @@ I am a passionate and highly skilled software engineer with **over 5 years of ex
 #### 🤝 Collaboration & Contributions
 
 💡 I’m open to collaborating on **React Native, Springboot, Nodejs projects**.
-📚 I enjoy mentoring developers and sharing knowledge through **technical writing**.
 
 Feel free to reach out if you're working on something exciting! via: information@foonmi.com
 
