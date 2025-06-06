@@ -34,7 +34,7 @@ I am a passionate and highly skilled software engineer with **over 5 years of ex
 
 ---
 
-#### 🤝 Collaboration & Contributions
+#### 🤝🏿 Collaboration & Contributions
 
 💡 I’m open to collaborating on **React Native, Springboot, Nodejs projects**.
 
