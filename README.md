@@ -9,7 +9,9 @@
 I am a passionate and highly skilled software engineer with **over 5 years of experience** in building scalable, high-performance applications. I specialize in **TypeScript** and **Java**, and I have extensive experience working with **Node.js, Spring, Next.js, Spring Boot, and React Native**.
 
 💼 **Currently:** Working at **COUNTERSHADOW** as a **Software Engineer**
+
 🎓 **Education:** Pursuing a **Master’s Degree in Computer Science**
+
 🔬 **Interests:** System design, scalable architectures, fintech, and AI-powered solutions
 
 ---
