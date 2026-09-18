@@ -15,7 +15,7 @@
 Software engineer with 6+ years of experience building scalable, high-performance systems. I specialise in **TypeScript** and **Java**, with hands-on experience across **Node.js, NestJS, Spring Boot, Next.js, and React Native**.
 
 - 💼 Currently building backend and AI systems at **CounterShadow**
-- 🎓 MSc in Computer Science, Teesside University, dissertation: *SentraFin*, a memory-augmented framework for financial fraud analysis combining graph neural networks and LLM-based reasoning
+- 🎓 MSc in Computer Science, dissertation: *SentraFin*, a memory-augmented framework for financial fraud analysis combining graph neural networks and LLM-based reasoning
 - 🔬 Interested in graph-based reasoning, hybrid symbolic/semantic memory, agentic architectures, and fintech
 
 ---
